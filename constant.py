@@ -18,13 +18,13 @@ bot_token = '5011258514:AAG28ZT8tentMEBuY1M4qaAmizXIqLiSlQA'
 
 text = {
 0: f'''🇷🇺 👋Здравствуйте %s!
-Это бот оценки работы преподавателей коворкинга учебного центра PROWEB.
+Это бот оценки работы преподавателей коворкинга учебного центра ***.
 Здесь вы можете оценить работу преподавателей и условия коворкинга.
 Отправьте свой контакт для завершения регистрации по кнопке ниже  👇
 -----------------------
 
 🇺🇿 👋Assalomu aleykum %s!
-Ushbu bot Proweb o`quv markazining kovorkingdagi o'qituvchilariga baho berish uchun. 
+Ushbu bot *** o`quv markazining kovorkingdagi o'qituvchilariga baho berish uchun. 
 Bunda siz kovorkingdagi sharoit va qulayliklar hamda o'qituvchilarga baho berishingiz mumkin.  
 Ro'yxatdan o'tish uchun kontaktingizni quyidagi tugma orqali yuboring
 ''',
@@ -115,21 +115,21 @@ Tez orada kamchiliklar bartaraf etiladi 👍
 23:f'''%s уже существует в таблице''',
 24:f'''Вы удалили %s''',
 25: f'''🇷🇺 👋Здравствуйте %s!
-Это бот оценки работы преподавателей коворкинга учебного центра PROWEB.
+Это бот оценки работы преподавателей коворкинга учебного центра ***.
 Здесь вы можете оценить работу преподавателей и условия коворкинга.
 -----------------------
 
 🇺🇿 👋Assalomu aleykum %s!
-Ushbu bot Proweb o`quv markazining kovorkingdagi o'qituvchilariga baho berish uchun. 
+Ushbu bot *** o`quv markazining kovorkingdagi o'qituvchilariga baho berish uchun. 
 Bunda siz kovorkingdagi sharoit va qulayliklar hamda o'qituvchilarga baho berishingiz mumkin.  
 ''',
 26: f'''🇷🇺 👋Здравствуйте %s!
-Это бот оценки работы преподавателей коворкинга учебного центра PROWEB.
+Это бот оценки работы преподавателей коворкинга учебного центра ***.
 Здесь вы можете добавить преподавателей в таблицу коворкинга, удалить преподавателей из таблицы и поставить ему оценку.
 -----------------------
 
 🇺🇿 👋Assalomu aleykum %s!
-Ushbu bot Proweb o`quv markazining kovorkingdagi o'qituvchilariga baho berish uchun.
+Ushbu bot *** o`quv markazining kovorkingdagi o'qituvchilariga baho berish uchun.
 Bu yerda siz kovorking jadvaliga o'qituvchi qo'shishingiz, jadvaldan o'qituvchini o'chirishingiz hamda ularni baholashingiz mumkin.  
 '''
 }
