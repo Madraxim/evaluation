@@ -1,4 +1,4 @@
-admin = ['1490953190',]
+admin = ['id',]
 
 creds = {
   "type": "service_account",
@@ -13,7 +13,7 @@ creds = {
   "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/account%40tests-341815.iam.gserviceaccount.com"
 }
 
-bot_token = '5011258514:AAG28ZT8tentMEBuY1M4qaAmizXIqLiSlQA'
+bot_token = 'API_TOKEN'
 # googlesheet_id = 'some_spreadsheet_id'
 
 text = {
