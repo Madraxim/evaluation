@@ -14,7 +14,6 @@ creds = {
 }
 
 bot_token = 'API_TOKEN'
-# googlesheet_id = 'some_spreadsheet_id'
 
 text = {
 0: f'''🇷🇺 👋Здравствуйте %s!
